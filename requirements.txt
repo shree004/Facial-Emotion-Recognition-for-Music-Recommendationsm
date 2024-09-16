@@ -1,0 +1,7 @@
+av
+certifi
+numpy
+opencv-python
+streamlit
+streamlit-webrtc
+tensorflow
